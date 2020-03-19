@@ -4,7 +4,7 @@
 ``npm install``
 
 ## Start Dev
-``npm build:dev``
+``npm run build:dev``
 
 ## Build
-``npm build``
+``npm run build``
